@@ -1,0 +1,6 @@
+<resources>
+	
+	<dimen name="cell_height">160dp</dimen>
+	<dimen name="cell_padding">4dp</dimen>
+	
+</resources>

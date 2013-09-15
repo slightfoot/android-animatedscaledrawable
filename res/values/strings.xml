@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">Animated Scale Drawable Example</string>
+	
+	<string-array name="item_names">
+		<item>ProgressBar</item>
+		<item>Background\n(Using bounds)</item>
+		<item>Background\n(Not using bounds)</item>
+		<item>Foreground\n(Gravity: top|left)</item>
+		<item>Foreground\n(Gravity: top|center_horizontal)</item>
+		<item>Foreground\n(Gravity: top|right)</item>
+		<item>Foreground\n(Gravity: right|center_vertical)</item>
+		<item>Foreground\n(Gravity: bottom|right)</item>
+		<item>Foreground\n(Gravity: bottom|center_horizontal)</item>
+		<item>Foreground\n(Gravity: bottom|left)</item>
+		<item>Foreground\n(Gravity: left|center_vertical)</item>
+		<item>Foreground\n(Gravity: fill)</item>
+	</string-array>
+	
+</resources>
