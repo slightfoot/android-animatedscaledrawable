@@ -44,6 +44,11 @@ import android.view.animation.Transformation;
  * @version 1.0
  * @author Simon Lightfoot, Demon Developers Ltd <simon@demondevelopers.com>
  * 
+ * 
+ * Known Issues:
+ * 
+ *     Drawable mutation is not functioning correct. Will be fixed in 1.1
+ * 
  */
 
 public class AnimatedScaleDrawable extends Drawable implements Drawable.Callback, Animatable
